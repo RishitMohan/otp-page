@@ -1,0 +1,52 @@
+*{
+    color: #ffffff;
+    font-family: raleway;
+}
+.app-body{
+    margin-top: -40%;
+}
+.myform{
+    margin-left: 45%;
+ 
+}
+.app-details{
+    padding-left: 45%;
+}
+p{
+    padding-left: 100px;
+    font-size: xx-small;
+}
+body{
+    margin-left: 0%;
+}
+.enterotp{
+   border: none;
+   background: transparent;
+   width: 500px;
+   height: 50px;
+   border-bottom: 1px solid #ffffff;
+   padding: 2px 5px;  
+}
+input::placeholder {
+    font-size: 0.5rem;
+    padding-left: 0.5rem;
+    padding-bottom: 1rem !important;
+}
+.enterotp:focus{
+    outline: none;
+}
+.authenticate{
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+
+}
+a{font-size: xx-small;
+    padding-left: 20px;
+    text-decoration: none;
+ 
+}
+button{
+    background-image: linear-gradient(to right, #136de0,#34a7b4 ,#62bb83  )
+}
